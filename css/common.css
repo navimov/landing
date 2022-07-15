@@ -4,10 +4,10 @@
     flex-direction: row;
     align-items: center;
 }
-/*.header_nav_menu    {
+.header_nav_menu    {
     display: flex;
     justify-content: space-around;
-}*/
+
 .contact_us {
     display: flex;
     flex-direction: column;
