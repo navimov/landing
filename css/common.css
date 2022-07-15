@@ -1,0 +1,6 @@
+*   {
+    background-image: var(--background-image);
+}
+:root   {
+    --background-image: 'img/background-img';
+}
