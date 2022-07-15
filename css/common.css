@@ -32,3 +32,9 @@ body    {
     font-size: 24px;
     font-weight: bold;
 }
+.tours  {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
