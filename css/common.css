@@ -1,4 +1,9 @@
 .header {
     display: flex;
     justify-content: space-between;
+    flex-direction: row;
+}
+.header_nav_menu    {
+    display: flex;
+    justify-content: space-around;
 }
