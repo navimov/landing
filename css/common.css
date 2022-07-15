@@ -49,3 +49,8 @@ body    {
     border: solid 2px;
 
 }
+.tour_video {
+    display: flex;
+    justify-content: center;
+}
+
