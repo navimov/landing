@@ -44,6 +44,8 @@ body    {
     font-size: 20px;
     font-weight: bold;
     background-color: rgb(221, 221, 221);
+    display: flex;
+    justify-content: center;
 }
 .tour_types {
     border: solid 2px;
