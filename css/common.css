@@ -14,7 +14,7 @@ body    {
     display: flex;
     justify-content: space-around;
 }
-.    contact_us {
+.contact_us {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -35,8 +35,7 @@ body    {
 .tours  {
     display:flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: center;
+    justify-content: center;    
 }
 .price  {
     font-weight: bold;
