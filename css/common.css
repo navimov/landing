@@ -11,6 +11,7 @@ body    {
 }
 
 .header_nav_menu    {
+    display: flex;
     justify-content: right;
     gap:20px;    
 }
