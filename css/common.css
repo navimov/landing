@@ -38,7 +38,7 @@ body    {
     flex-direction: row;
     gap: 20px;
 }
-benefits_head  {
+.benefits_head  {
     font-size: 24px;
     font-weight: bold;
 }
