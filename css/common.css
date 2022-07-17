@@ -3,17 +3,14 @@ body    {
     font-size: 16px;
     font-family: 'lato', sans-serif;
 }
-.header> div {
+.header div {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
     align-items: center;
 }
-.logo   {
-    display: flex;
-}
+
 .header_nav_menu    {
-    display: flex;
     justify-content: space-around;
 }
 .contact_us {
