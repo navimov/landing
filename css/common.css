@@ -9,9 +9,7 @@ body    {
     flex-direction: row;
     align-items: center;
 }
-.contact_form   {
-    margin:auto;
-}
+
 .header_nav_menu    {
     justify-content: space-around;
 }
@@ -67,10 +65,10 @@ body    {
 }
 .copy_rights    {
     font-size: 12px;
+    justify-content:space-around;
 }
 .footer     {
     display: flex;
-    justify-items: right;
     justify-content: right;
 }
 .footer_menu    {
