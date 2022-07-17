@@ -1,7 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,900;1,300;1,900&display=swap');
-:root   {
-    background: rgb(21, 136, 182);
-}
 body    {
     font-size: 16px;
     font-family: 'lato', sans-serif;
@@ -11,6 +8,7 @@ body    {
     justify-content: space-between;
     flex-direction: row;
     align-items: center;
+    background-color: rgb(62, 35, 182);
 }
 
 .header_nav_menu    {
