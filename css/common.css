@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,900;1,300;1,900&display=swap');
 :root   {
-    background-color: rgb(21, 136, 182);
+    background: rgb(21, 136, 182);
 }
 body    {
     font-size: 16px;
