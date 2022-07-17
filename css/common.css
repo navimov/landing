@@ -51,7 +51,7 @@ body    {
 .tour_types {
     border: solid 2px;
     width: 270px;
-    margin-top: auto;
+    margin-top: 0;
     gap: 20px;
 }
 .tour_video {
