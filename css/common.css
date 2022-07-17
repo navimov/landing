@@ -1,10 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,900;1,300;1,900&display=swap');
-:root   {
-    background-color: rgb(95, 77, 172);
-}
 body    {
     font-size: 16px;
     font-family: 'lato', sans-serif;
+    background-color: rgb(95, 77, 172);
 }
 .header {
     display: flex;
