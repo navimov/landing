@@ -51,7 +51,7 @@ body    {
 .tour_types {
     border: solid 2px;
     width: 270px;
-    margin-top: 0;
+    margin-top: 0px;
     gap: 20px;
 }
 .tour_video {
@@ -62,6 +62,7 @@ body    {
 .btn {
     display: flex;
     justify-content: center;  
+    margin:20px;
 }
 .copy_rights    {
     font-size: 12px;
