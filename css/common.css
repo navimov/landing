@@ -9,7 +9,9 @@ body    {
     flex-direction: column;
     align-items: center;
 }
-
+.contact_form   {
+    margin:auto;
+}
 .header_nav_menu    {
     justify-content: space-around;
 }
