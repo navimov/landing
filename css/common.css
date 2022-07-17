@@ -67,6 +67,7 @@ body    {
     margin:20px;
 }
 .copy_rights    {
+    display: flex;
     font-size: 12px;
     justify-content:space-around;
     
@@ -75,9 +76,11 @@ body    {
     display: flex;
     justify-content: right;
     flex-direction: column;
-    gap: 20px;
+   
 }
 .footer_menu    {
+    display: flex;
    margin-top: 20px;
+    gap: 20px;
 }
 
