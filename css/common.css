@@ -69,13 +69,15 @@ body    {
 .copy_rights    {
     font-size: 12px;
     justify-content:space-around;
+    
 }
 .footer     {
     display: flex;
     justify-content: right;
+    flex-direction: column;
     gap: 20px;
 }
 .footer_menu    {
-   margin-top: 70px;
+   margin-top: 20px;
 }
 
