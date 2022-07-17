@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,900;1,300;1,900&display=swap');
+:root   {
+    background-color: rgb(95, 77, 172);
+}
 body    {
     font-size: 16px;
     font-family: 'lato', sans-serif;
@@ -7,8 +10,7 @@ body    {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
-    align-items: center;
-    background-color: rgb(95, 77, 172);
+    align-items: center;    
 }
 
 .header_nav_menu    {
