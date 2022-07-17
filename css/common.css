@@ -3,7 +3,7 @@ body    {
     font-size: 16px;
     font-family: 'lato', sans-serif;
 }
-.logo .header_nav_menu {
+.header {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
@@ -52,6 +52,7 @@ body    {
 }
 .tour_types {
     border: solid 2px;
+    width: 270px;
     margin-top: auto;
     gap: 20px;
 }
