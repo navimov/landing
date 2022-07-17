@@ -71,6 +71,7 @@ body    {
 .footer     {
     display: flex;
     justify-items: right;
+    justify-content: right;
 }
 .footer_menu    {
     display: flex;
