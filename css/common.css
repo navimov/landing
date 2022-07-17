@@ -65,4 +65,15 @@ body    {
     display: flex;
     justify-content: center;  
 }
+.copy_rights    {
+    font-size: 12px;
+}
+.footer     {
+    display: flex;
+    justify-items: right;
+}
+.footer_menu    {
+    display: flex;
+    justify-items: space-between;
+}
 
