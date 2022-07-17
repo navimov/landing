@@ -12,7 +12,7 @@ body    {
 
 .header_nav_menu    {
     justify-content: space-around;
-    
+    gap:20px;    
 }
 .contact_us {
     display: flex;
@@ -29,10 +29,15 @@ body    {
 .hot_travels img    {
     border-radius: 50%;
 }
-.benefits_head  {
+.benefits   {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+/*.benefits_head  {
     font-size: 24px;
     font-weight: bold;
-}
+}*/
 .tours  {
     display:flex;
     flex-direction: row;
