@@ -11,7 +11,7 @@ body    {
 }
 
 .header_nav_menu    {
-    justify-content: space-around;
+    justify-content: right;
     gap:20px;    
 }
 .contact_us {
@@ -34,10 +34,10 @@ body    {
     flex-direction: row;
     gap: 20px;
 }
-/*.benefits_head  {
+benefits_head  {
     font-size: 24px;
     font-weight: bold;
-}*/
+}
 .tours  {
     display:flex;
     flex-direction: row;
