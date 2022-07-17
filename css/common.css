@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,900;1,300;1,900&display=swap');
-
+:root   {
+    background-image: url(img/background-img.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+   /* -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;*/
+}
 body    {
     font-size: 16px;
     font-family: 'lato', sans-serif;
