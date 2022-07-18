@@ -2,14 +2,15 @@
 body    {
     font-size: 16px;
     font-family: 'lato', sans-serif;
-    background-color: rgb(95, 77, 172);
-    background-image: url(img/background-img.jpg);
+    background-color: rgb(142, 126, 218);
+    
 }
 .header {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
-    align-items: center;    
+    align-items: center;  
+    background-image: url(img/background-img.jpg);  
 }
 
 .header_nav_menu    {
@@ -88,13 +89,15 @@ body    {
 .footer     {
     display: flex;
     justify-content: right;
-    flex-direction: column;
-   
-margin-right: 30px;}
+    flex-direction: column;   
+    margin-right: 30px;
+}
 .footer_menu    {
     display: flex;
     justify-content: right;
    margin-top: 20px;
     gap: 20px;
 }
-
+.menu_item  {
+    color: blue;
+}
