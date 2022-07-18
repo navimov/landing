@@ -29,7 +29,7 @@ body    {
 .our_benefits   {
     display: flex;
     flex-direction: column;
-    justify-content: right;
+    justify-content: center;
 }
 .hot_travels img    {
     border-radius: 50%;
