@@ -31,9 +31,7 @@ body    {
     flex-direction: column;
     justify-content: center;
 }
-.hot_travels img    {
-    border-radius: 50%;
-}
+
 .benefits   {
     display: flex;
     flex-direction: row;
